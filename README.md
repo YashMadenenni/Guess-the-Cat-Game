@@ -3,7 +3,11 @@ This project is a one-player, web-based game, in which the player attempts to gu
 
 #### Building and running the project:
 
-Navigate to the file Assignment 1
+Navigate to the file Assignment 1 
+
+```
+cd src/main/
+```
 ```
 Open the file Assignment1.html in browser and play the game
 ```
