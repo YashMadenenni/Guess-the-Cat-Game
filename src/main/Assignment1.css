@@ -1,0 +1,18 @@
+.opacity{
+    opacity: 0.5;
+}
+
+.green{
+    background-color: green !important;
+}
+
+.red{
+    background-color: red !important;
+}
+
+.messages{
+    color:white;
+}
+.quitMessage{
+    color: red;
+}
